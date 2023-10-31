@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.php": "php",
+    "*.prolog": "prolog",
+    "*.sql": "sql",
+    "type_traits": "c"
+  }
+}
